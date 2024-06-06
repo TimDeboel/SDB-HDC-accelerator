@@ -1,0 +1,1 @@
+['bul', 'ces', 'dan', 'deu', 'ell', 'eng', 'spa']
